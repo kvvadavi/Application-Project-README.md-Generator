@@ -74,7 +74,7 @@ function renderLicenseLink(license) {
     if(license !== 'None')
     return `### License
     
-    It is licensed with ${license}`
+    This project has been licensed with ${license} license.`
 }
 
 // TODO: Create a function that returns the license section of README
