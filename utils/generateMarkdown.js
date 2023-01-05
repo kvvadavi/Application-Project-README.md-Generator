@@ -21,11 +21,9 @@ function generateMarkdown(data) {
   ${renderLicenseSection(data.license)}
 
   ### Install
-
   \`\`\`
   ${data.instruction}
   \`\`\`
-
 
   ### Usage
   \`\`\`

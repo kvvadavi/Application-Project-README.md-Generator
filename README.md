@@ -1,6 +1,6 @@
 # Generate README.md for a given application.
   
-  ![License!](https://img.shields.io/badge/license-MIT-blue.svg "MIT")
+  ![License!](https://img.shields.io/badge/license-Apache 2.0-blue.svg "Apache 2.0")
 
   ## Description
 
@@ -20,13 +20,13 @@
   ### Install
 
   ```
-  Run `npm i` to install all dependencies from package.json file.
+  Run following commands after cloning the repo. 'npm install'. This will install the dependencies from 'package.json'. Later, Run 'node index.js'. This will generate questions for creating the README.md file. Go through each prompt and HIT ENTER once questions are answered. It is very easy process. But, make sure to answer correct details.
   ```
 
 
   ### Usage
   ```
-  User Should have knowledge on Node.
+  User should have 'npm' and 'node' running on the system/computer. User should have knowledge of Node and JavaScript.
   ```
 
   ### Contribution
@@ -36,24 +36,24 @@
 
   ### Tests
   ```
-  npm run test
+  User can run test with 'npm run test'.
   ```
 
   ### Questions
   ```
-  How to contact creator of this project?
+   How to contact creator of this project?
   ```
 
-  ###### GitHub Username
+  ### GitHub Username
   ```
   kvvadavi
   ```
 
-  ###### Email
+  ### Email
   ```
-  krish.vadavi@gmail.com
+  krishna.v.vadavi@gmail.com
   ```
 
   ### License
     
-    It is licensed with MIT
+    It is licensed with Apache 2.0
